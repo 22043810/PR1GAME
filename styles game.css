@@ -3,7 +3,7 @@
     height: 200px;
     border: 10px solid rgb(34, 80, 11);
     margin: auto;
-    background-color: gainsboro;
+    background-image: url('Mariobackground.jpg');
 }
 
 #mario {
